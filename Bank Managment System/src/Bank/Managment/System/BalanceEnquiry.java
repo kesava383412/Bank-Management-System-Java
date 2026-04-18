@@ -45,7 +45,7 @@ public class BalanceEnquiry extends JFrame implements ActionListener {
         label1.setBounds(390, 130, 300, 30);
         background.add(label1);
 
-        // ---------------- BALANCE LABEL ----------------
+        // --------------- BALANCE LABEL ---------------
         labelBalance = new JLabel();
         labelBalance.setForeground(Color.WHITE);
         labelBalance.setFont(new Font("Arial", Font.BOLD, 18));
