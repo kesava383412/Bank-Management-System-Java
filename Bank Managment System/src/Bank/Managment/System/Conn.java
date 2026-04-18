@@ -6,9 +6,9 @@ public class Conn {
 	
 	Connection connection;
 	
-	String url = "jdbc:mysql://localhost:3306/bankSystem";
-	String user = "root";
-	String pass = "Mysql";
+	String url = "Url";
+	String user = "Username";
+	String pass = "Password";
 
 	Statement statement;
 	
